@@ -6,3 +6,5 @@ name = "pako"
 edad = 44
 if edad < 18:
     print(name)
+    
+for
