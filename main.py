@@ -16,6 +16,7 @@ Especifica:
 productos_lista = ["Botes","Coca-cola", "Cafe", "Pan Birote", "Papitas"]
 productos_identificadores = ["312","8712","323","1010", "21"]
 productos_cantidades = [10,45,2,9,0 ]
+
 #almacen = [productos_lista, productos_identificadores, productos_cantidades]
 rango = len(productos_lista)
 bandera = True
